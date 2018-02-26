@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cucumber-jvm-formatter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/cucumber-jvm-formatter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
